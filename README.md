@@ -47,6 +47,7 @@ Docker & Docker Compose for containerization
 Clone the repository:
 
 git clone https://github.com/imritik7303/boiler-plate-backend.git
+
 cd boiler-plate-backend
 
 
@@ -95,6 +96,7 @@ go test ./...
 
 📂 Project Structure
 boiler-plate-backend/
+
 │── cmd/            # Application entrypoints
 │── internal/       # Private app modules
 │   ├── config/     # Configuration handling
@@ -108,6 +110,7 @@ boiler-plate-backend/
 │── docker-compose.yml
 │── go.mod
 │── main.go
+
 
 🤝 Contribution
 
